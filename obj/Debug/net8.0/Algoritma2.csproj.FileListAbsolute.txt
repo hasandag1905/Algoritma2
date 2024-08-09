@@ -1,0 +1,14 @@
+C:\Users\Hasan\Documents\vscodes\Algoritma2\bin\Debug\net8.0\Algoritma2.exe
+C:\Users\Hasan\Documents\vscodes\Algoritma2\bin\Debug\net8.0\Algoritma2.deps.json
+C:\Users\Hasan\Documents\vscodes\Algoritma2\bin\Debug\net8.0\Algoritma2.runtimeconfig.json
+C:\Users\Hasan\Documents\vscodes\Algoritma2\bin\Debug\net8.0\Algoritma2.dll
+C:\Users\Hasan\Documents\vscodes\Algoritma2\bin\Debug\net8.0\Algoritma2.pdb
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\Algoritma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\Algoritma2.AssemblyInfoInputs.cache
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\Algoritma2.AssemblyInfo.cs
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\Algoritma2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\Algoritma2.dll
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\refint\Algoritma2.dll
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\Algoritma2.pdb
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\Algoritma2.genruntimeconfig.cache
+C:\Users\Hasan\Documents\vscodes\Algoritma2\obj\Debug\net8.0\ref\Algoritma2.dll
